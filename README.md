@@ -1,7 +1,7 @@
 # 🚀IN THIS REPOSITORY
 ---
 ###  Shopping page 🛍🛒
-## You can see output in [netlify.com]()
+## You can see output in [netlify.com](https://e-commerce-cart-page-by-arun.netlify.app/)
 
    + From task i displayed a shopping page `Dynamically`
    + when click `Addcart` button in Navbar cart value will be adding
