@@ -1,0 +1,13 @@
+.card{
+    box-shadow: 0px 0px 40px black;
+}
+.card:hover{
+        transform: scale(1.05);
+        behavior: smooth;
+}
+.navbar-brand{
+    font-family: Orbitron;
+}
+.btn{
+    color:black
+}

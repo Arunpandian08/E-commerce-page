@@ -1,0 +1,33 @@
+.card-header {
+    padding: 100px;
+    color: whitesmoke !important;
+    background-image: url('https://wallpapercave.com/wp/wp2761194.gif');
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    width: 100%;
+    animation: blink 1ms infinite;
+}
+
+@keyframes blink {
+    0% {
+        text-shadow: 0 0 10px white;
+    }
+
+    25% {
+        text-shadow: 0 0 25px whitesmoke;
+    }
+
+    50% {
+        text-shadow: 0 0 50px white;
+    }
+
+    100% {
+        text-shadow: 0 0 50px white;
+    }
+}
+
+h2 {
+    font-size: 4rem;
+}
